@@ -12,3 +12,8 @@ console.log("This JavaScript File is created for Testing Purpose !");
 
 console.log("First Commit After Stashing !");
 console.log("Second Commit After Stashing !");
+
+// The Below lines of Code will be in Stashing Area
+console.log("Stored in Stashing !");
+console.log("Stored in Stashing !");
+console.log("Stored in Stashing !");
